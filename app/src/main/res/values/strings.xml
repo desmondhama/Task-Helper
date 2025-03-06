@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Task Helper</string>
+	<string name="task_result">All task completed</string>
+	<string name="nice_work">Nice Work</string>
+
+</resources>
