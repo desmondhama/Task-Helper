@@ -1,0 +1,35 @@
+{
+  "allFiles": [
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Task Helper/app/src/main/java/com/nexera/taskhelper/MainActivity.kt",
+      "selection": {
+        "end": {
+          "column": 1,
+          "index": 2241,
+          "line": 65
+        },
+        "start": {
+          "column": 1,
+          "index": 2241,
+          "line": 65
+        }
+      }
+    },
+    {
+      "file": "/storage/emulated/0/AndroidIDEProjects/Task Helper/app/src/main/res/values/strings.xml",
+      "selection": {
+        "end": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        },
+        "start": {
+          "column": 0,
+          "index": 0,
+          "line": 0
+        }
+      }
+    }
+  ],
+  "selectedFile": "/storage/emulated/0/AndroidIDEProjects/Task Helper/app/src/main/java/com/nexera/taskhelper/MainActivity.kt"
+}
